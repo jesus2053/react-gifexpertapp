@@ -13,7 +13,7 @@ export const GifExpertApp = () => {
 
   return (
     <>
-      <h2>GifExpertApp</h2>
+      <h2>Yuriko eres una toxica</h2>
       <AddCategory setCategorias={setCategorias} />
       <hr />
       {/* <button onClick={handleAdd}>Agregar</button> */}
